@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/01HDFS/pom.xml" />
+        <option value="$PROJECT_DIR$/02MapReduce/pom.xml" />
+        <option value="$PROJECT_DIR$/03Zookeeper/pom.xml" />
+        <option value="$PROJECT_DIR$/04Hive/pom.xml" />
+        <option value="$PROJECT_DIR$/05Kafka/pom.xml" />
+        <option value="$PROJECT_DIR$/06HBase/pom.xml" />
+        <option value="$PROJECT_DIR$/ct_project/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="jdk1.8.0_211" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

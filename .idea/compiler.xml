@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="04Hive" />
+        <module name="ct_cache" />
+        <module name="ct-producer" />
+        <module name="03Zookeeper" />
+        <module name="02MapReduce" />
+        <module name="ct_consumer_coprocessor" />
+        <module name="ct_common" />
+        <module name="05Kafka" />
+        <module name="01HDFS" />
+        <module name="ct_consumer" />
+        <module name="06HBase" />
+        <module name="ct_analysis" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="8">
+      <module name="01HDFS" target="8" />
+      <module name="02MapReduce" target="8" />
+      <module name="03Zookeeper" target="8" />
+      <module name="04Hive" target="8" />
+      <module name="05Kafka" target="8" />
+      <module name="06HBase" target="8" />
+      <module name="ct-producer" target="8" />
+      <module name="ct_analysis" target="8" />
+      <module name="ct_cache" target="8" />
+      <module name="ct_common" target="8" />
+      <module name="ct_consumer" target="8" />
+      <module name="ct_consumer_coprocessor" target="8" />
+      <module name="ct_project" target="8" />
+      <module name="log-collector" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

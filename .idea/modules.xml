@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01HDFS/01HDFS.iml" filepath="$PROJECT_DIR$/01HDFS/01HDFS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02MapReduce/02MapReduce.iml" filepath="$PROJECT_DIR$/02MapReduce/02MapReduce.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03Zookeeper/03Zookeeper.iml" filepath="$PROJECT_DIR$/03Zookeeper/03Zookeeper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04Hive/04Hive.iml" filepath="$PROJECT_DIR$/04Hive/04Hive.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05Kafka/05Kafka.iml" filepath="$PROJECT_DIR$/05Kafka/05Kafka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06HBase/06HBase.iml" filepath="$PROJECT_DIR$/06HBase/06HBase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HadoopEcosystem.iml" filepath="$PROJECT_DIR$/HadoopEcosystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ct_project/ct_producer/ct-producer.iml" filepath="$PROJECT_DIR$/ct_project/ct_producer/ct-producer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ct_project/ct_analysis/ct_analysis.iml" filepath="$PROJECT_DIR$/ct_project/ct_analysis/ct_analysis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ct_project/ct_cache/ct_cache.iml" filepath="$PROJECT_DIR$/ct_project/ct_cache/ct_cache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ct_project/ct_common/ct_common.iml" filepath="$PROJECT_DIR$/ct_project/ct_common/ct_common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ct_project/ct_consumer/ct_consumer.iml" filepath="$PROJECT_DIR$/ct_project/ct_consumer/ct_consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ct_project/ct_consumer_coprocessor/ct_consumer_coprocessor.iml" filepath="$PROJECT_DIR$/ct_project/ct_consumer_coprocessor/ct_consumer_coprocessor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ct_project/ct_project.iml" filepath="$PROJECT_DIR$/ct_project/ct_project.iml" />
+    </modules>
+  </component>
+</project>
